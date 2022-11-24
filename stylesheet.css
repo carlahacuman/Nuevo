@@ -1,0 +1,136 @@
+h1{
+	text-align: center;
+	border: 5px solid black;
+	font-family: cursive;
+}
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+nav a{
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+	text-align: center;
+	color: #000000;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: sans-serif;
+}	
+.car1{
+	border: 5px solid black;
+	font-style: italic;
+	text-transform: capitalize;
+
+}
+.car2{
+	font-style: italic;
+}
+.car3{
+	font-style: italic;
+}
+.car4{
+	font-style: italic;
+	width: auto;
+
+}
+.car1 img{
+	border: 5px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+	display: block;
+
+}
+.car1{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuN4_qDbGnruLm_08-AuNizbd5IxwYb19azq1FJGg5yzjf6jxU-MyS_tZGwZ3bLe4ahI&usqp=CAU');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.car2{
+	background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/vector-autumn-floral-background_MyjJhG8O_SB_PM.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.car3{
+	background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.car4{
+	background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+.car4 img{
+	border: 5px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+	display: block;
+
+}
+.car3 img{
+	border: 5px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	display: block;
+}
+.car2 img{
+	border: 5px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+	display: block;
+}
+
+.car1 iframe{
+	border:5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.car2 audio{
+	border:5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.car3 audio{
+	border:5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.car4 audio{
+	border:5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.car1 p{
+	text-align: center;
+
+}
+.car2 p{
+	text-align: center;
+}
+.car3 p{
+	text-align: center;
+}
+.car4 p{
+	text-align: center;
+}
+.buttom{
+	position: absolute;
+}
